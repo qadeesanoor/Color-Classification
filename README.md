@@ -1,4 +1,4 @@
-Image Color Classification using Machine Learning
+**Image Color Classification using Machine Learning**
 
 A simple machine learning project that classifies images based on their dominant RGB color values using Logistic Regression.
 
